@@ -1,0 +1,11 @@
+0 A
+1 AA
+2 E
+3 EE
+4 U
+5 UU
+6 EA
+7 EAA
+8 I
+9 O
+10 OO
